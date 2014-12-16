@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Definitely not what related to the name
+Definitely not related to the repo name
